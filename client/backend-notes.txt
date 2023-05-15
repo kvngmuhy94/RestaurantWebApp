@@ -1,0 +1,4 @@
+
+run this command
+
+yarn add @paypal/react-paypal-js

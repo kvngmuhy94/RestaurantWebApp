@@ -1,0 +1,5 @@
+{
+    "prettier.useEditorConfig": true,
+    "prettier.useTabs": true,
+    "reactSnippets.settings.prettierEnabled": true
+}
