@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Kolapo1234",
+    "database": "restaurantdb",
+    "host": "restaurantdb.ckbkxhdpdq4q.eu-north-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Kolapo1234",
+    "database": "restaurantdb",
+    "host": "restaurantdb.ckbkxhdpdq4q.eu-north-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Kolapo1234",
+    "database": "restaurantdb",
+    "host": "restaurantdb.ckbkxhdpdq4q.eu-north-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
